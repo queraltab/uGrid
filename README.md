@@ -6,12 +6,19 @@ solar and backup (fossil fueled) generator energy sources. By introducing techni
 optimization and integrating many of the major EPC decisions, uGrid can speed up and improve a
 prospective microgrid project or program, as well indicate which financial conditions (cost of capital) and tariff can drive the project in the market.
 
+Main developers:
+
+- Queralt Altes-Buch (qaltes@uliege.be - University of Liege, Energy Systems Research Unit, Belgium)
+
+- Matthew Orosz (mso@mit.edu - Massachusetts Institute of Technology, USA)
+
+
 
 **The MIT License**
 
 SPDX short identifier: MIT
 
-Copyright  2017  Queralt Altés Buch, Matthew Orosz
+Copyright  2017  Queralt Altes-Buch, Matthew Orosz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
