@@ -10,7 +10,7 @@ Main developers:
 
 - Queralt Altes-Buch (qaltes@uliege.be - University of Liege, Energy Systems Research Unit, Belgium)
 
-- Matthew Orosz (mso@mit.edu - Massachusetts Institute of Technology, USA)
+- Matthew Orosz (mso@mit.edu - Massachusetts Institute of Technology, US)
 
 
 
