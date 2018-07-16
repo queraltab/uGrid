@@ -5,9 +5,14 @@ procurement and construction (EPC) of sustainable, reliable microgrids relying o
 solar and backup (fossil fueled) generator energy sources. By introducing technical and economic
 optimization and integrating many of the major EPC decisions, uGrid can speed up and improve a
 prospective microgrid project or program, as well indicate which financial conditions (cost of capital) and tariff can drive the project in the market.
-
-
-#The MIT License
+.
+.
+.
+.
+.
+.
+.
+**The MIT License**
 
 SPDX short identifier: MIT
 
